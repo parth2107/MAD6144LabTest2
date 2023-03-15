@@ -48,7 +48,7 @@ const AddProductForm = ({ onSubmit }) => {
         <div className="relative flex flex-col justify-center min-h-screen overflow-hidden ">
             <div className="w-full p-6 m-auto bg-white rounded-md shadow-xl shadow-rose-600/40 ring-2 ring-indigo-600 lg:max-w-xl">
                 <h1 className="text-3xl font-semibold text-center text-indigo-700 underline uppercase decoration-wavy">
-                    Product From
+                    Product Form
                 </h1>
                 <form onSubmit={handleSubmit} className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
                     <div className="mbsc-form-group">
